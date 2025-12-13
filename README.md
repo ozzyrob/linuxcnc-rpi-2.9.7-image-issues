@@ -3,7 +3,15 @@
 Issues relating to linuxcnc-2.9.7 image only rpi issues.  
 Do not post issues to emc user threads, I'm unable to be a member.  
 Forum isn't a good place either, I rarely visit any more.   
-__Please use latest image before posting issues, which is RC4.__  
+__Please use latest image before posting issues, which is RC4.__   
+I'll only be supporting from version rc4 & later, if you are running earlier versions please upgrade to the latest.  
+Also in any issues please post which version you are currently running, if you are running anything earlier than the latest,  
+which could be updated, please go to the latest version. ATM the moment I'm only assigning each release as release candidates as
+this is a new build system, and to save space, not add bloat or services that are not required I've had to modify what is  
+included and not included.  
+The more that can help the faster the image can get to a stage where it does what it should.  
+I do implore you to download the notes that are linked to in the release section.
+
 
 
 ---
