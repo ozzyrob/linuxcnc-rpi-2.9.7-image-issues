@@ -10,8 +10,9 @@ which could be updated, please go to the latest version. ATM the moment I'm only
 this is a new build system, and to save space, not add bloat or services that are not required I've had to modify what is  
 included and not included.  
 The more that can help the faster the image can get to a stage where it does what it should.  
-I do implore you to download the notes that are linked to in the release section.
-
+I do implore you to download the notes that are linked to in the release section.  
+__Please use Rpi Imager 1.9.6 as this allows customisations to image__  
+https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.6
 
 
 ---
@@ -22,7 +23,6 @@ I do implore you to download the notes that are linked to in the release section
 * Fixed first boot wizard issue (piwiz)
 * power manager and screensaver disabled from autorun
 * dpms & screen blanking disable via autorun entries
-* __Please use Rpi Imager 1.9.6 as this allows customisations to image__
 * Unresolved issue with Rpi Imager 2.0.x for customising image __Not recommended__
 * Please report any issues __NOT__ to Forum, but to https://github.com/ozzyrob/linuxcnc-rpi-2.9.7-image-issues
 * Packages will be current from image build date
