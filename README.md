@@ -2,8 +2,8 @@
 
 Issues relating to linuxcnc-2.9.7 image only rpi issues.  
 Do not post issues to emc user threads, I'm unable to be a member.  
-Forum isn't a good place either, I rarely visit any more. 
-__Please use latest image before posting issues, which is RC4.__
+Forum isn't a good place either, I rarely visit any more.   
+__Please use latest image before posting issues, which is RC4.__  
 
 
 ---
