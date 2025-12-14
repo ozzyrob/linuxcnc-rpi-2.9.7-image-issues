@@ -1,6 +1,6 @@
-# linuxcnc-rpi-2.9.7-image-issues
+# linuxcnc-rpi-2.9.7-image-issues Trixie Based
 
-Issues relating to linuxcnc-2.9.7 image only rpi issues.  
+Issues relating to linuxcnc-2.9.7 Trixie based RPi images.  
 Do not post issues to emc user threads, I'm unable to be a member.  
 Forum isn't a good place either, I rarely visit any more.   
 __Please use latest image before posting issues, which is RC4.__   
@@ -14,6 +14,12 @@ I do implore you to download the notes that are linked to in the release section
 __Please use Rpi Imager 1.9.6 as this allows customisations to image__  
 https://github.com/raspberrypi/rpi-imager/releases/tag/v1.9.6
 
+---
+# Linuxcnc RPi images shipped with 2.9.2 Bookworm Base
+
+Not discussed here, please see the following links
+* Main Thread https://forum.linuxcnc.org/9-installing-linuxcnc/55192-linuxcnc-the-raspberry-pi-4-5-official-images-only
+* Index to Main Thread https://forum.linuxcnc.org/38-general-linuxcnc-questions/55767-index-to-linuxcnc-the-raspberry-pi-4-5-official-images-only
 
 ---
 
