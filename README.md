@@ -32,6 +32,8 @@ Not discussed here, please see the following links
 * Unresolved issue with Rpi Imager 2.0.x for customising image __Not recommended__
 * Please report any issues __NOT__ to Forum, but to https://github.com/ozzyrob/linuxcnc-rpi-2.9.7-image-issues
 * Packages will be current from image build date
+* __It has been noted that the hal_gpio driver is not built for the Linuxcnc packages used in this iamge, this an issue we need the Linuxcnc devs to look at.__
+* So until this is resolved I can not see a fix for this, __if one does require the hal_gpio driver it is advised to stick with the previous Bookworm image__.
 
 [RC4 Image](https://drive.google.com/file/d/1CoO_2y7iDTwtubGpODlHlRf_z27LbVSw/view?usp=sharing)
 
